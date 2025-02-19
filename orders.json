@@ -1,0 +1,9 @@
+[
+    {
+        "order_id": "a1470b76-83ae-4ceb-83cb-28d6a0245e52",
+        "order_type": "buy",
+        "price": 45000,
+        "quantity": 0.1,
+        "status": "completada"
+    }
+]
